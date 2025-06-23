@@ -2,4 +2,5 @@ streamlit
 PyMuPDF
 llama-index
 llama-index-llms-ollama
+from llama_index.embeddings.huggingface
 requests
