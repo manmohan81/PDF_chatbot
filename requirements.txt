@@ -1,0 +1,5 @@
+streamlit
+PyMuPDF
+llama-index
+llama-index-llms-ollama
+requests
